@@ -346,7 +346,7 @@ h6,
     overflow: hidden;
     transition: .5s;
     width: 327px;
-    height: 362px;
+    height: auto;
 }
 
 .service-item:hover {
