@@ -962,7 +962,7 @@ program Style
   }
   
   .program .left-text p {
-    text-align: center;
+    text-align: justify;
     margin-bottom: 30px;
   }
   
