@@ -927,7 +927,7 @@ program Style
   .program ul.nacc li .right-image img {
   
     float: right;
-    width: 250px;
+    width: auto;
     height: 250px;
   }
   
