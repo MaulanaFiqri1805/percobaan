@@ -232,12 +232,12 @@ sup {
 }
 
 a {
-    color: white;
+    color: black;
     text-decoration: none
 }
 
 a:hover {
-    color: white
+    color: black;
 }
 
 a:not([href]):not([class]),
