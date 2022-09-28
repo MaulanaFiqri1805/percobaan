@@ -232,7 +232,7 @@ sup {
 }
 
 a {
-    color: black;
+    color: white;
     text-decoration: none
 }
 
@@ -4880,7 +4880,7 @@ fieldset:disabled .btn {
 .card-header {
     padding: .5rem 1rem;
     margin-bottom: 0;
-    background-color: rgba(0, 0, 0, 0.03);
+    background-color: #553F9A;
     border-bottom: 1px solid rgba(0, 0, 0, 0.125)
 }
 
